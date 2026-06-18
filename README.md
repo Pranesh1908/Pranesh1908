@@ -19,7 +19,8 @@
 
 - 🎮 **Fake certificate detector** – detects the fake certificates.
 - 🔧 **AR Troubleshooting App** – Diagnose and repair electronics using AR.
-- 📚 **Sea Border Detection and Alerting System** – Monitor maritime boundaries and alert fishermen to prevent unauthorized border crossings.
+- ⚓ **Sea Border Detection and Alerting System** – Monitor maritime boundaries and alert fishermen to prevent unauthorized border crossings.
+- 🔧 **Multilingual Sign Language Detection System** – Detect and translate sign language gestures into text across multiple languages.
 
 📌 [Check all my projects here »](https://github.com/Pranesh1908?tab=repositories)
 
