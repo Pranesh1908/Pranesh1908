@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranesh Kumar
 
-🎓 Computer Science and Engineering student at Kumarasamy College of Engineering.  
+🎓 Computer Science and Engineering graduated at Kumarasamy College of Engineering.  
 🌱 Passionate about Full Stack Development, AR-based Applications, and Voice-Controlled Interfaces.  
 💡 Exploring innovative solutions through personal projects and research.
 
