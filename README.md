@@ -8,9 +8,9 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C, C++, Java, Python, SQL  
+- **Languages**: C, C++, Python, SQL, Power BI  
 - **Web**: HTML, CSS, JavaScript, React.js, Node.js  
-- **Tools**: Git, GitHub, VS Code, Firebase  
+- **Tools**: Git, GitHub, VS Code, Firebase, Loveable  
 - **Special Focus**: Augmented Reality (AR), Web Apps, Career Guidance Platforms
 
 ---
